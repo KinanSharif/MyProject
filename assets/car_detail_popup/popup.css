@@ -1,0 +1,107 @@
+.back-div
+{
+	background: #e0e0ff !important;
+	background: rgb(224,224,255) !important;
+	width:auto;
+	height:900px;
+	padding: 11px 19px 0px 13px !important;
+}.close
+{
+	border:none !important;
+}
+.form1
+{
+	float:left;
+	
+}
+.the-legend {
+    border-style: none;
+    border-width: 0;
+	width:76px;
+	text-align:left;
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 0;
+	color:black  !important;
+	opacity:10 !important;
+	padding-left:5px;
+}
+.the-legend1 {
+    border-style: none;
+    border-width: 0;
+	width:98px;
+	text-align:left;
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 0;
+	color:black  !important;
+	opacity:10 !important;
+	padding-left:5px;
+}
+.the-legend2 {
+    border-style: none;
+    border-width: 0;
+	width:82px;
+	text-align:left;
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 0;
+	color:black  !important;
+	opacity:10 !important;
+	padding-left:5px;
+}
+.the-fieldset {
+			border:1px solid black!important;
+			color:black !important;
+			background:transparent !important;
+			opacity:10 !important;
+			min-height:450px !important;
+			height:auto;
+			
+}
+.the-fieldset1 {
+			border:1px solid black!important;
+			color:black !important;
+			background:transparent !important;
+			opacity:10 !important;
+			height:230px;
+			
+}
+.the-fieldset2 {
+			border:1px solid black!important;
+			color:black !important;
+			background:transparent !important;
+			opacity:10 !important;
+			height:197px;			
+}
+.inputs
+{
+	background-color:white;
+	font-family:Myriad Pro;
+	margin-top:15px;
+	float:left;
+}
+.modal 
+{
+    position: fixed;
+    top: 30px !important;
+    right: 0;
+    bottom: 0;
+    left: 96 !important;
+    z-index: 1050;
+    display: none;
+    overflow: hidden;
+    -webkit-overflow-scrolling: touch;
+    outline: 0;
+}
+.mike
+{
+	padding-top:10px;
+}
+.image-car
+{/*
+	margin-left:36px;*/
+	width:1000px;
+	height:360px;
+	
+}

@@ -1,0 +1,134 @@
+.center{
+  text-align:center;
+}
+.f-44{
+  font-size:33px;
+}
+.white{
+  color:white;
+}
+.row1{
+  background-color: black;
+  opacity: 0.8;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.row2{
+  padding-top: 50px;
+}
+.p-10{
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.form-control-feedback {
+    position: absolute;
+    top: 35px;
+    / right: 0px; /
+    z-index: 2;
+    display: block;
+    width: 34px;
+    height: 34px;
+    line-height: 34px;
+    text-align: center;
+    pointer-events: none;
+    left: 0px;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 30px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.black{
+   background-color:black;
+   border-radius: 5px;
+}
+.chek{
+   width: 21px;
+   height: 21px;
+   margin-top: 0px;
+   margin-left: -27px;
+}
+.hired{
+    margin-left: 125px;
+    background-color: black;
+    border-color: darkgray;
+    color: lightgray;
+    width: 22%;
+    height: 22px;
+    border-style: none;
+    
+
+}
+.a1{
+   background-color: #f7f7f7;
+   margin-bottom: 0;
+   padding-bottom: 10px;
+   padding-left: 15px;
+   padding-top: 10px;
+}
+.a2{
+   margin-bottom: 25px;
+}
+.available{
+	position: absolute;
+    background-color:#03a9f4;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.mediac{
+   margin-top: 0px;
+}
+.mediac1{
+   margin-top: 0px;
+}
+.Bg-image{
+	background-image: url('images/back.jpg');
+	background-size: cover;
+	padding-bottom: 149px;
+	margin-top: -20px;
+}
+.Bg-style{
+	background-color: rgba(0,0,0,0.2);
+	padding-bottom: 20px;
+	width: 75%;
+}
+a:hover {
+  text-decoration:none;
+}
+
+@media screen and (max-width:992px) and (min-width:768px){
+ .mediac{
+   margin-top: -395px;
+}
+.mediac1{
+   margin-top: -440px;
+}
+}
+@media (min-width: 768px) and (max-width:822px){
+    .ipad {
+        width: 25%;
+        margin-top: -18px;
+    }
+    .form-control-feedback {
+        position: absolute;
+        top: 55px;
+        display: block;
+        width: 34px;
+        height: 34px;
+        line-height: 34px;
+        text-align: center;
+        pointer-events: none;
+        left: 0px;
+    }
+}

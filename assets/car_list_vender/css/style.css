@@ -1,0 +1,45 @@
+.a {
+
+    margin-left: 104px;
+
+    background-color: #c5d0db;
+
+    border-color: black;
+
+    width: 24%;
+
+    height: 22px;
+
+    border-style: none;
+
+    border: 1px solid;
+/*this is the Available button */
+}
+
+.a1{
+
+
+    border-color: #333333;
+
+    border-style: none;
+
+    color: #4d4448;
+
+    height: 60px;
+
+    line-height: 0.5;
+
+    margin-left: 10px;
+
+    margin-right: 10px;
+
+    width: 94%;
+
+    /*this is the info listing section for car*/
+}
+
+.a2{
+
+	margin-bottom:15px;
+
+}
